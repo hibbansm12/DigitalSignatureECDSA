@@ -3,7 +3,7 @@
   
   `pip install cryptography`
   `pip install customtkinter`
-- Jalankan gui.py
+- jalankan gui.py
 - generate key untuk membuat private key dan public key
 - sign file untuk menandatangani file baru
 - verify untuk memverifikasi file
